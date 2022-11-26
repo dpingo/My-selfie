@@ -1,0 +1,10 @@
+body{
+background-image: linear-gradient(#FF8787, #F8C4B4, #E5EBB2, #E5EBB2);
+}
+#text{
+color:#143466;
+}
+#img{
+border-radius: 25px;
+width: 250px;
+}
